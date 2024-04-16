@@ -1,0 +1,11 @@
+*Consumer Driven Contracts and Provider Driven Contracts.
+*https://docs.spring.io/spring-framework/reference/core/beans.html
+*YAML 
+*TDD
+	- Red, Green, Refactor development loop
+	- Jackson framework (extensive JSON testing and parsing support)
+	- Unit Testing and the Arrange, Act and Assert (AAA) Pattern
+* JsonPath
+* https://docs.oracle.com/javase/8/docs/api/java/util/Optional.html
+* Same Origin Policy (SOP), Cross-Origin Resource Sharing (CORS),Cross-Origin Resource Sharing (CORS),Cross-Site Scripting (XSS)
+* RBAC-based authorization!
