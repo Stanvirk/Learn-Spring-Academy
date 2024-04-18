@@ -1,0 +1,17 @@
+D:\Workspace\Java\Learn-Spring-Academy\lab\24-test-solution\src\test\java\rewards\internal\StubAccountRepository.java
+D:\Workspace\Java\Learn-Spring-Academy\lab\24-test-solution\src\test\java\rewards\LoggingBeanPostProcessor.java
+D:\Workspace\Java\Learn-Spring-Academy\lab\24-test-solution\src\test\java\rewards\internal\account\AccountTests.java
+D:\Workspace\Java\Learn-Spring-Academy\lab\24-test-solution\src\test\java\rewards\TestInfrastructureConfig.java
+D:\Workspace\Java\Learn-Spring-Academy\lab\24-test-solution\src\test\java\rewards\internal\account\JdbcAccountRepositoryTests.java
+D:\Workspace\Java\Learn-Spring-Academy\lab\24-test-solution\src\test\java\rewards\DevRewardNetworkTests.java
+D:\Workspace\Java\Learn-Spring-Academy\lab\24-test-solution\src\test\java\rewards\StubRewardNetworkTests.java
+D:\Workspace\Java\Learn-Spring-Academy\lab\24-test-solution\src\test\java\rewards\internal\RewardNetworkImplTests.java
+D:\Workspace\Java\Learn-Spring-Academy\lab\24-test-solution\src\test\java\rewards\internal\StubRewardRepository.java
+D:\Workspace\Java\Learn-Spring-Academy\lab\24-test-solution\src\test\java\rewards\TestInfrastructureLocalConfig.java
+D:\Workspace\Java\Learn-Spring-Academy\lab\24-test-solution\src\test\java\rewards\internal\StubRestaurantRepository.java
+D:\Workspace\Java\Learn-Spring-Academy\lab\24-test-solution\src\test\java\rewards\internal\reward\JdbcRewardRepositoryTests.java
+D:\Workspace\Java\Learn-Spring-Academy\lab\24-test-solution\src\test\java\rewards\SimpleJndiHelper.java
+D:\Workspace\Java\Learn-Spring-Academy\lab\24-test-solution\src\test\java\rewards\internal\restaurant\JdbcRestaurantRepositoryTests.java
+D:\Workspace\Java\Learn-Spring-Academy\lab\24-test-solution\src\test\java\rewards\ProductionRewardNetworkTests.java
+D:\Workspace\Java\Learn-Spring-Academy\lab\24-test-solution\src\test\java\rewards\TestInfrastructureJndiConfig.java
+D:\Workspace\Java\Learn-Spring-Academy\lab\24-test-solution\src\test\java\rewards\RewardNetworkTests.java
